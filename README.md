@@ -34,7 +34,7 @@ Netflix-Clone/
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/varunnhiremath4/Netflix
    ```
 
 2. Open the project folder.
