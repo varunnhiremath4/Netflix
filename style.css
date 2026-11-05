@@ -136,7 +136,7 @@
   font-family: "Poppins", sans-serif;
   font-weight: 700;
   font-style: normal;
-  font-size: 20px;
+  font-size: 30px;
 }
 .trendsec {
   display: grid;
@@ -340,10 +340,11 @@
   justify-self: start;
   color: white;
   margin-left: 20px;
+  font-family: Arial, sans-serif;
 }
 .plusicon1{
   width: 100px;
-  margin-left: 553px;
+  margin-left: 535px;
 }
 .q2{
   margin-top: 7px;
@@ -354,10 +355,11 @@
   justify-self: start;
   color: white;
   margin-left: 20px;
+  font-family: Arial, sans-serif;
 }
 .plusicon2{
   width: 100px;
-  margin-left: 380px;
+  margin-left: 329px;
 }
 .q3{
   margin-top: 7px;
@@ -368,10 +370,11 @@
   justify-self: start;
   color: white;
   margin-left: 20px;
+  font-family: Arial, sans-serif;
 }
 .plusicon3{
   width: 100px;
-  margin-left: 494px;
+  margin-left: 473px;
 }
 .q4{
   margin-top: 7px;
@@ -382,10 +385,11 @@
   justify-self: start;
   color: white;
   margin-left: 20px;
+  font-family: Arial, sans-serif;
 }
 .plusicon4{
   width: 100px;
-  margin-left: 531px;
+  margin-left: 509px;
 }
 .q5{
   margin-top: 7px;
@@ -396,10 +400,11 @@
   justify-self: start;
   color: white;
   margin-left: 20px;
+  font-family: Arial, sans-serif;
 }
 .plusicon5{
   width: 100px;
-  margin-left: 375px;
+  margin-left: 342px;
 }
 .q6{
   margin-top: 7px;
@@ -410,10 +415,11 @@
   justify-self: start;
   color: white;
   margin-left: 20px;
+  font-family: Arial, sans-serif;
 }
 .plusicon6{
   width: 100px;
-  margin-left: 440px;
+  margin-left: 406px;
 }
 .con2{
   margin-top: 20px;
