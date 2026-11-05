@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Redaction+20:ital,wght@0,400;0,700;1,400&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Redaction+20:ital,wght@0,400;0,700;1,400&display=swap");
 * {
   padding: 0;
   margin: 0;
@@ -305,7 +305,7 @@
   font-weight: 400;
   color: #b3b3b3;
 }
-.qtitlediv{
+.qtitlediv {
   background-color: black;
   height: 100px;
   width: auto;
@@ -313,124 +313,123 @@
   justify-content: center;
   align-items: center;
 }
-.qtitle{
+.qtitle {
   color: azure;
   padding-top: 50px;
   font-family: sans-serif;
 }
-.questiontab{
+.questiontab {
   background-color: black;
   width: auto;
   height: 130vh;
-
 }
-.q{
-  background-color: #2D2D2D;
+.q {
+  background-color: #2d2d2d;
   width: 70vw;
   height: 14vh;
   margin-left: auto;
   margin-right: auto;
 }
-.q1{
-    display: flex;
-    align-items: center;
+.q1 {
+  display: flex;
+  align-items: center;
 }
-.rq1{
+.rq1 {
   justify-self: start;
   color: white;
   margin-left: 20px;
   font-family: Arial, sans-serif;
 }
-.plusicon1{
+.plusicon1 {
   width: 100px;
   margin-left: 535px;
 }
-.q2{
+.q2 {
   margin-top: 7px;
   display: flex;
   align-items: center;
 }
-.rq2{
+.rq2 {
   justify-self: start;
   color: white;
   margin-left: 20px;
   font-family: Arial, sans-serif;
 }
-.plusicon2{
+.plusicon2 {
   width: 100px;
   margin-left: 329px;
 }
-.q3{
+.q3 {
   margin-top: 7px;
   display: flex;
   align-items: center;
 }
-.rq3{
+.rq3 {
   justify-self: start;
   color: white;
   margin-left: 20px;
   font-family: Arial, sans-serif;
 }
-.plusicon3{
+.plusicon3 {
   width: 100px;
   margin-left: 473px;
 }
-.q4{
+.q4 {
   margin-top: 7px;
   display: flex;
   align-items: center;
 }
-.rq4{
+.rq4 {
   justify-self: start;
   color: white;
   margin-left: 20px;
   font-family: Arial, sans-serif;
 }
-.plusicon4{
+.plusicon4 {
   width: 100px;
   margin-left: 509px;
 }
-.q5{
+.q5 {
   margin-top: 7px;
   display: flex;
   align-items: center;
 }
-.rq5{
+.rq5 {
   justify-self: start;
   color: white;
   margin-left: 20px;
   font-family: Arial, sans-serif;
 }
-.plusicon5{
+.plusicon5 {
   width: 100px;
   margin-left: 342px;
 }
-.q6{
+.q6 {
   margin-top: 7px;
   display: flex;
   align-items: center;
 }
-.rq6{
+.rq6 {
   justify-self: start;
   color: white;
   margin-left: 20px;
   font-family: Arial, sans-serif;
 }
-.plusicon6{
+.plusicon6 {
   width: 100px;
   margin-left: 406px;
 }
-.con2{
+.con2 {
   margin-top: 20px;
   display: flex;
   justify-content: center;
 }
-.footer1{
+.footer1 {
   background-color: black;
   height: 18vh;
   width: auto;
 }
-.netflixspon{
+.netflixspon {
   color: white;
   font-family: "Redaction 20", serif;
   font-weight: 700;
@@ -439,7 +438,7 @@
   margin: auto;
   text-align: center;
 }
-.credits{
+.credits {
   width: 50vw;
   margin: 20px auto 0px auto;
   color: white;
